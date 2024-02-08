@@ -25,16 +25,16 @@ This project simulates a basic terminal environment where users can navigate thr
 * Tests cover funcionalities such as creating directories, creating files, changing directories, and user identifications.
 
 ## Usage
-1. Ensure you have python3 installed on your system.
-2. Clone this repository with the following command:
+1. #### Ensure you have python3 installed on your system.
+2. #### Clone this repository with the following command:
 ```bash
 git clone https://https://github.com/pepemf/Python-Terminal-Simulator
 ```
-3. Inside the cloned folder, start the script by running
+3. #### Inside the cloned folder, start the script by running
 ```bash
 Python Terminal.py
 ```
-4. Interact with the Terminal: Once the terminal simulator is running, you can interact with it using various commands. For example:
+4. #### Interact with the Terminal: Once the terminal simulator is running, you can interact with it using various commands. For example:
 * To list avaliable commands: **help**
 * To create a directory: **mkdir new_directory**
 * To list files and directories: **ls**
