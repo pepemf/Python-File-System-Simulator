@@ -30,8 +30,9 @@ This project simulates a basic terminal environment where users can navigate thr
 ```bash
 git clone https://https://github.com/pepemf/Python-Terminal-Simulator
 ```
-3. #### Inside the cloned folder, start the script by running
+3. #### Inside the cloned directory, cd to the Source folder, start the script by running
 ```bash
+cd Source/
 Python Terminal.py
 ```
 4. #### Interact with the Terminal: Once the terminal simulator is running, you can interact with it using various commands. For example:
