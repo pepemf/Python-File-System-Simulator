@@ -1,7 +1,7 @@
 # Path: Source/Main/Terminal.py
-from DirectoryClass import Directory
-import Binaries
-from User import User
+from Source.DirectoryClass import Directory
+import Source.Binaries as Binaries
+from Source.User import User
 
 
 rootdir = Directory("/")

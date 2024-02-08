@@ -1,4 +1,4 @@
-from DirectoryClass import Directory
+from Source.DirectoryClass import Directory
 
 
 class User:

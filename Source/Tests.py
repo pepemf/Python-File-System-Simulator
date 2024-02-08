@@ -1,7 +1,7 @@
 import unittest
-from DirectoryClass import Directory
-from User import User
-from Binaries import mkdir, touch, cd
+from Source.DirectoryClass import Directory
+from Source.User import User
+from Source.Binaries import mkdir, touch, cd
 
 class TestFunctions(unittest.TestCase):
     def setUp(self):

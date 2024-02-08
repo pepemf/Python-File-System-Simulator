@@ -1,5 +1,5 @@
-from DirectoryClass import Directory
-from User import User
+from Source.DirectoryClass import Directory
+from Source.User import User
 
 
 def mkdir(currentDirectory: Directory, name) -> bool:

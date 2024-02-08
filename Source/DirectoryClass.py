@@ -1,4 +1,4 @@
-from FileClass import File
+from Source.FileClass import File
 
 
 class Directory:
